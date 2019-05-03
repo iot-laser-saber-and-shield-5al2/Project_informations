@@ -41,7 +41,7 @@
 4. Upload Firmware into hardware
 5. Make your sword
 
-<img src="https://github.com/iot-laser-saber-and-shield-5al2/Project_informations/blob/master/gallery/HardwareFinal.jpg" width="250" height="250">
+<img src="https://github.com/iot-laser-saber-and-shield-5al2/Project_informations/blob/master/gallery/HardwareFinal.jpg" width="200" height="450">
 
 7. Start your server *(The server may take a long time to launch depending on the size of the files.)*
 
@@ -59,19 +59,29 @@
 | - | [External battery](https://www.amazon.fr/Anker-Batterie-PowerCore-Technologies-VoltageBoost/dp/B01CU1EC6Y/ref=sr_1_10?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=power+bank&qid=1556882479&s=gateway&sr=8-10) | 10€ | 2 | 20€ |
 ***Price is as an indication, you can find a cheaper one.*
 
+* Espressif ESP8266 Microcontroller
 <img src="https://github.com/iot-laser-saber-and-shield-5al2/Project_informations/blob/master/gallery/ESP8266.jpg" width="250" height="250">
 
+* Module MPU-6050 3 axes Gyroscope + Accelerometer
 <img src="https://github.com/iot-laser-saber-and-shield-5al2/Project_informations/blob/master/gallery/GY521.jpg" width="250" height="250">
 
+* 8-Digit LED Display
 <img src="https://github.com/iot-laser-saber-and-shield-5al2/Project_informations/blob/master/gallery/MAX7219.jpg" width="250" height="250">
 
+* Fake sword
 <img src="https://github.com/iot-laser-saber-and-shield-5al2/Project_informations/blob/master/gallery/balai.jpg" width="250" height="250">
 
+* External battery
 <img src="https://github.com/iot-laser-saber-and-shield-5al2/Project_informations/blob/master/gallery/ExternalBattery.jpg" width="250" height="250">
 
 ## Project board
 
 Trello link : <https://trello.com/b/zL0Afcey/iot>
+
+* Demo
+<video width="340" height="260" controls>
+  <source src="https://github.com/iot-laser-saber-and-shield-5al2/Project_informations/blob/master/gallery/video_demo.mp4" type="video/mp4">
+</video>
 
 ## More informations
 
@@ -95,7 +105,7 @@ To successfully develop our project, we used 2 ESP8266 as well as 2 GY-521 to ha
 
 Here is the main component fused. It must be inserted in the sword in order to recover the moment of shock.
 
-<img src="https://github.com/iot-laser-saber-and-shield-5al2/Project_informations/blob/master/gallery/HardwareFinal.jpg" width="250" height="250">
+<img src="https://github.com/iot-laser-saber-and-shield-5al2/Project_informations/blob/master/gallery/HardwareFinal.jpg" width="200" height="450">
 
 In order to establish some tests with sword strokes, we attached a ESP8266 with a pet to a large bottle of water that is about the size of the sword and we made gestures. We got what we needed from the Arduino Software plot as well as the data.
  
