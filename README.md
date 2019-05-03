@@ -32,11 +32,11 @@
 1. Use an hotspot WIFI
 2. Change firmware WIFI parameters 
 
-![WIFI_parameter](https://github.com/iot-laser-saber-and-shield-5al2/Project_informations/blob/master/gallery/WIFI_parameters.png)
+![WIFI_parameter](https://github.com/iot-laser-saber-and-shield-5al2/Project_informations/blob/master/gallery/WIFI_parameters.png =100x100)
 
 3. Assembly hardware
 
-![Assembly hardware](https://github.com/iot-laser-saber-and-shield-5al2/Project_informations/blob/master/gallery/HardwareBis.jpg)
+![Assembly hardware](https://github.com/iot-laser-saber-and-shield-5al2/Project_informations/blob/master/gallery/HardwareBis.jpg =100*100)
 
 4. Upload Firmware into hardware
 5. Make your sword
@@ -45,7 +45,7 @@
 
 7. Start your server *(The server may take a long time to launch depending on the size of the files.)*
 
-8. START TO FIGHT !!!
+8. START TO FIGHT !!! :smile:
 
 
 ## Hardware infos
