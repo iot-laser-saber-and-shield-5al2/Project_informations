@@ -62,15 +62,19 @@
 ***Price is as an indication, you can find a cheaper one.*
 
 * Espressif ESP8266 Microcontroller
+
 <img src="https://raw.githubusercontent.com/iot-laser-saber-and-shield-5al2/Project_informations/master/gallery/ESP8266.jpg" height="250">
 
 * Module MPU-6050 3 axes Gyroscope + Accelerometer
+
 <img src="https://raw.githubusercontent.com/iot-laser-saber-and-shield-5al2/Project_informations/master/gallery/GY521.jpg" height="250">
 
 * Fake sword
+
 <img src="https://raw.githubusercontent.com/iot-laser-saber-and-shield-5al2/Project_informations/master/gallery/balai.jpg" height="250">
 
 * External battery
+
 <img src="https://raw.githubusercontent.com/iot-laser-saber-and-shield-5al2/Project_informations/master/gallery/ExternalBattery.jpg" height="250">
 
 ## Project board
