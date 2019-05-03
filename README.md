@@ -5,7 +5,7 @@
 
 `Laser Saber and Shield` consists of making a representation of a fighting game with lightsabers and shields. The goal is to make a fight between two people and the person who is the most affected, lost the fight.
 
-[Live Demo](https://youtu.be/JowEAmRWSR0)
+[![Live Demo](https://raw.githubusercontent.com/iot-laser-saber-and-shield-5al2/Project_informations/master/gallery/logo_video_demo.jpg)](https://youtu.be/JowEAmRWSR0)
 
 ## Get started
 
@@ -33,16 +33,16 @@
 1. Use an hotspot WIFI
 2. Change firmware WIFI parameters 
 
-![WIFI_parameter](https://github.com/iot-laser-saber-and-shield-5al2/Project_informations/blob/master/gallery/WIFI_parameters.png)
+![WIFI_parameter](https://raw.githubusercontent.com/iot-laser-saber-and-shield-5al2/Project_informations/master/gallery/WIFI_parameters.png)
 
 3. Assembly hardware
 
-<img src="https://github.com/iot-laser-saber-and-shield-5al2/Project_informations/blob/master/gallery/HardwareBis.jpg" height="250">
+<img src="https://raw.githubusercontent.com/iot-laser-saber-and-shield-5al2/Project_informations/master/gallery/HardwareBis.jpg" height="250">
 
 4. Upload Firmware into hardware
 5. Make your sword
 
-<img src="https://github.com/iot-laser-saber-and-shield-5al2/Project_informations/blob/master/gallery/HardwareFinal.jpg" height="250">
+<img src="https://raw.githubusercontent.com/iot-laser-saber-and-shield-5al2/Project_informations/master/gallery/HardwareFinal.jpg" height="250">
 
 7. Start your server *(The server may take a long time to launch depending on the size of the files.)*
 
@@ -57,21 +57,21 @@
 | GY521 | [Module MPU-6050 3 axes Gyroscope + Accelerometer](https://www.amazon.fr/SODIAL-MPU-6050-Gyroscope-Accelerometre-Arduino/dp/B00K67X810/ref=sr_1_2?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=GY521&qid=1556881561&s=gateway&sr=8-2) | 2€ | 2 | 4€
 | - | [Fake sword](https://www.amazon.fr/Vileda-107931-Universel-Plastique-Multicolore/dp/B002IJM40A/ref=sr_1_3?keywords=Manche+%C3%A0+balai&qid=1556881359&s=gateway&sr=8-3) | 1.50€ | 2 | 3€ |
 | - | [External battery](https://www.amazon.fr/Anker-Batterie-PowerCore-Technologies-VoltageBoost/dp/B01CU1EC6Y/ref=sr_1_10?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=power+bank&qid=1556882479&s=gateway&sr=8-10) | 10€ | 2 | 20€ |
-| TOTAL |  |  |  | 47€ |
+| TOTAL |  |  |  | 41€ |
 
 ***Price is as an indication, you can find a cheaper one.*
 
 * Espressif ESP8266 Microcontroller
-<img src="https://github.com/iot-laser-saber-and-shield-5al2/Project_informations/blob/master/gallery/ESP8266.jpg" height="250">
+<img src="https://raw.githubusercontent.com/iot-laser-saber-and-shield-5al2/Project_informations/master/gallery/ESP8266.jpg" height="250">
 
 * Module MPU-6050 3 axes Gyroscope + Accelerometer
-<img src="https://github.com/iot-laser-saber-and-shield-5al2/Project_informations/blob/master/gallery/GY521.jpg" height="250">
+<img src="https://raw.githubusercontent.com/iot-laser-saber-and-shield-5al2/Project_informations/master/gallery/GY521.jpg" height="250">
 
 * Fake sword
-<img src="https://github.com/iot-laser-saber-and-shield-5al2/Project_informations/blob/master/gallery/balai.jpg" height="250">
+<img src="https://raw.githubusercontent.com/iot-laser-saber-and-shield-5al2/Project_informations/master/gallery/balai.jpg" height="250">
 
 * External battery
-<img src="https://github.com/iot-laser-saber-and-shield-5al2/Project_informations/blob/master/gallery/ExternalBattery.jpg" height="250">
+<img src="https://raw.githubusercontent.com/iot-laser-saber-and-shield-5al2/Project_informations/master/gallery/ExternalBattery.jpg" height="250">
 
 ## Project board
 
@@ -123,7 +123,7 @@ We thought of hanging a screen to trigger the score of each player like the MAX7
 We also thought to add a shield that will protect the fighters during the duel.
 To have more effects during the duel, we thought to add a sensor that captures the impacts which emits a vibration and a sound effect of the type "Star Wars". We thought to reproduce the fight in 3D and to visualize it in the software "Processing"
 
-<img src="https://github.com/iot-laser-saber-and-shield-5al2/Project_informations/blob/master/gallery/MAX7219.jpg" width="250" height="250">
+<img src="https://raw.githubusercontent.com/iot-laser-saber-and-shield-5al2/Project_informations/master/gallery/MAX7219.jpg" height="250">
 
 ### Members of the team
  
