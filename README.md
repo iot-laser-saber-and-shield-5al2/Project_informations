@@ -5,6 +5,7 @@
 
 `Laser Saber and Shield` consists of making a representation of a fighting game with lightsabers and shields. The goal is to make a fight between two people and the person who is the most affected, lost the fight.
 
+[Live Demo](https://youtu.be/JowEAmRWSR0)
 
 ## Get started
 
@@ -57,6 +58,8 @@
 | MAX7219 | [8-Digit LED Display](https://www.amazon.fr/Hiletgo-daffichage-contr%C3%B4le-Electronic-Production/dp/B00LSG54O2/ref=sr_1_19?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=MAX7219&qid=1556881650&s=gateway&sr=8-19) | 3€ | 2 | 6€ |
 | - | [Fake sword](https://www.amazon.fr/Vileda-107931-Universel-Plastique-Multicolore/dp/B002IJM40A/ref=sr_1_3?keywords=Manche+%C3%A0+balai&qid=1556881359&s=gateway&sr=8-3) | 1.50€ | 2 | 3€ |
 | - | [External battery](https://www.amazon.fr/Anker-Batterie-PowerCore-Technologies-VoltageBoost/dp/B01CU1EC6Y/ref=sr_1_10?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=power+bank&qid=1556882479&s=gateway&sr=8-10) | 10€ | 2 | 20€ |
+| TOTAL |  |  |  | 47€ |
+
 ***Price is as an indication, you can find a cheaper one.*
 
 * Espressif ESP8266 Microcontroller
@@ -77,11 +80,6 @@
 ## Project board
 
 Trello link : <https://trello.com/b/zL0Afcey/iot>
-
-* Demo
-<video width="340" height="260" controls>
-  <source src="https://github.com/iot-laser-saber-and-shield-5al2/Project_informations/blob/master/gallery/video_demo.mp4" type="video/mp4">
-</video>
 
 ## More informations
 
