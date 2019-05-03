@@ -34,6 +34,8 @@
 
 ![WIFI_parameter](https://github.com/iot-laser-saber-and-shield-5al2/Project_informations/blob/master/gallery/WIFI_parameters.png =100x100)
 
+<img src="https://github.com/iot-laser-saber-and-shield-5al2/Project_informations/blob/master/gallery/WIFI_parameters.png" width="50" height="50">
+
 3. Assembly hardware
 
 ![Assembly hardware](https://github.com/iot-laser-saber-and-shield-5al2/Project_informations/blob/master/gallery/HardwareBis.jpg =100*100)
